@@ -1,0 +1,18 @@
+1. numpy (version 1.19.5)
+
+2. pandas (version 1.3.3)
+
+3. matplotlib (version 3.4.3)
+
+4. sklearn (version 0.24.2)
+      sklearn.model_selection (train_test_split)
+      sklearn.feature_extraction.text (TfidfVectorizer)
+      sklearn.ensemble (RandomForestClassifier)
+      sklearn.pipeline (Pipeline)
+      sklearn.svm (SVC)
+
+5. tensorflow (version 2.6.0)
+      tensorflow.keras.preprocessing.text (Tokenizer)
+      tensorflow.keras.preprocessing.sequence (pad_sequences)
+      tensorflow.keras.layers (Dense, Input, GlobalMaxPooling1D, Conv1D, MaxPooling1D, Embedding, LSTM)
+      tensorflow.keras.models (Model)
